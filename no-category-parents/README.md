@@ -3,7 +3,7 @@
 
 **名称**：固定链接优化
 
-**作者**：[Wall·E](http://wall-e.me/)
+**作者**：[OSSLab](http://osslab.online/)
 
 **版本**：0.2.4.1
 
