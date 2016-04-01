@@ -1,9 +1,5 @@
 ﻿## Scopic Pro
 
-
-
-## 主题快照
-
 ![enter image description here](./screenshot.png)
 
 
