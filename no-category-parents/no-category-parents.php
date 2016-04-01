@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: 固定链接优化
-Plugin URI: http://work.wall-e.me/
+Plugin URI: http://osslab.online/
 Description: 优化分类目录固定链接自定义结构，移除 '/category' 前缀及父级分类目录别名，支持文章链接优化。
 Version: 0.2.4.1
-Author: Wall·E
-Author URI: http://work.wall-e.me/
+Author: OSSLab
+Author URI: http://osslab.online/
 Donate link: http://www.milardovich.com.ar/
 */
 
