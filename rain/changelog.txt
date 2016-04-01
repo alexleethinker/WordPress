@@ -1,0 +1,154 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TYPES OF CHANGE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A Added
+C Copied
+D Deleted
+M Modified
+R Renamed
+T have their type (mode) changed
+U Unmerged
+X Unknown
+B have had their pairing Broken
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.5 - Feb 26, 2014
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Release Notes
+~~~~~~~~~~~~~
+   Fixed - Small JS bugs
+Improved - RAIN background image fallback for less than or equal IE8
+
+Changed Files
+~~~~~~~~~~~~~
+M       assets/js/init_rainyday.js
+M       changelog.txt
+M       functions.php
+M       header.php
+M       style.css
+M       style.scss
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.4 - Feb 10, 2014
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Release Notes
+~~~~~~~~~~~~~
+   Fixed - Social Options
+
+Changed Files
+~~~~~~~~~~~~~
+M       admin/admin.php
+M       changelog.txt
+M       libs/socialSharer/get_social_links.php
+M       style.css
+M       style.scss
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.3 - Feb 6, 2014
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Release Notes
+~~~~~~~~~~~~~
+   Fixed - A few really small bugs
+     New - TGM Plugin Activation class
+     New - Contact Form, thanks to the "Contact Form 7" and "Really Simple CAPTCHA" plugins
+     New - Ability to change the background on a per post/page/category/tag/ basis. Thanks to "Sideways8 Simple Taxonomy Images" plugin
+     New - About Page Template with extra "About" navigation at the bottom
+     New - Ability to share any post/page on social networks with a button
+
+Changed Files
+~~~~~~~~~~~~~
+M       admin/admin.php
+A       admin/admin_writepanel_bg.php
+A       admin/admin_writepanel_page_about.php
+M       admin/component-add-image.js
+A       admin/page-edit.js
+M       assets/js/index.js
+M       changelog.txt
+M       content-loop.php
+A       content-page-about.php
+M       content-page.php
+M       content-single.php
+M       functions.php
+M       header.php
+A       libs/socialSharer/class.ffSocialSharer.php
+A       libs/socialSharer/class.ffSocialSharerPrinter.php
+A       libs/socialSharer/class.ffSocialSharer_font_awesome.php
+A       libs/socialSharer/class.ffSocialSharer_zocial.php
+A       libs/socialSharer/get_social_links.php
+A       libs/tgm/activate.php
+A       libs/tgm/class-tgm-plugin-activation.php
+A       page-about.php
+M       style.css
+M       style.scss
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.2 - Jan 29, 2014
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Release Notes
+~~~~~~~~~~~~~
+Improved - New version of FontAwesome
+Improved - Added menu for mobiles
+
+Changed Files
+~~~~~~~~~~~~~
+M       assets/fonts/font-awesome/css/font-awesome.css
+M       assets/fonts/font-awesome/css/font-awesome.min.css
+M       assets/fonts/font-awesome/fonts/FontAwesome.otf
+M       assets/fonts/font-awesome/fonts/fontawesome-webfont.eot
+M       assets/fonts/font-awesome/fonts/fontawesome-webfont.svg
+M       assets/fonts/font-awesome/fonts/fontawesome-webfont.ttf
+M       assets/fonts/font-awesome/fonts/fontawesome-webfont.woff
+M       assets/fonts/font-awesome/less/font-awesome.less
+M       assets/fonts/font-awesome/less/icons.less
+M       assets/fonts/font-awesome/less/variables.less
+M       assets/fonts/font-awesome/scss/_icons.scss
+M       assets/fonts/font-awesome/scss/_variables.scss
+M       assets/fonts/font-awesome/scss/font-awesome.css
+M       assets/fonts/font-awesome/scss/font-awesome.scss
+M       changelog.txt
+M       header.php
+M       left-menu-slider.php
+M       style.css
+M       style.scss
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.1 - Jan 28, 2014
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Release Notes
+~~~~~~~~~~~~~
+Improved - Prevent page scroll when clicking the more link
+
+Changed Files
+~~~~~~~~~~~~~
+M       changelog.txt
+M       functions.php
+M       style.css
+M       style.scss
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.0 - Jan 24, 2014
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Release Notes
+~~~~~~~~~~~~~
+   Fixed - Nothing
+     New - Everything
+Improved - Everything
+ Removed - Nothing
+
+Changed Files
+~~~~~~~~~~~~~
+none
+
