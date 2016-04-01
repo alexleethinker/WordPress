@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 登录界面美化\n"
+"POT-Creation-Date: 2015-12-23 15:32+0800\n"
+"PO-Revision-Date: 2016-03-10 13:58+0800\n"
+"Last-Translator: wall-e.me <wall-e@live.cn>\n"
+"Language-Team: wall-e.me <wall-e@live.cn>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: er-custom-login.php:44
+msgid "Settings"
+msgstr "设置"
+
+#: er-custom-login.php:235
+msgid "Please upload a valid .json file"
+msgstr "请上传 .json 格式文件"
+
+#: er-custom-login.php:241
+msgid "Please upload a file to import"
+msgstr "请上传要导入的文件"
+
+#: er-custom-login.php:248
+msgid "New settings imported successfully!"
+msgstr "导入成功！"
+
+#: er-custom-login.php:337
+msgid "Custom Login and Dashboard"
+msgstr "登录界面"
+
+#: er-custom-login.php:358
+msgid "Erident Custom Login and Dashboard Settings"
+msgstr "登录界面美化"
+
+#: er-custom-login.php:359
+msgid ""
+"Plugin Loads default values for all below entries. Please change the values "
+"to yours."
+msgstr "当前使用默认配置，请根据需要定制个性化样式。"
+
+#: er-custom-login.php:359
+msgid "Click on the header of each block to open it."
+msgstr "提示：点击选项卡查看详细设置。"
+
+#: er-custom-login.php:367
+msgid "Settings saved."
+msgstr "保存成功！"
+
+#: er-custom-login.php:375
+msgid "Dashboard Settings"
+msgstr "网站信息"
+
+#: er-custom-login.php:376
+msgid ""
+"(These settings will be reflected when a user/admin logins to the WordPress "
+"Dashboard)"
+msgstr "仪表盘"
+
+#: er-custom-login.php:381
+msgid "Enter the text for dashboard left side footer:"
+msgstr "版权说明："
+
+#: er-custom-login.php:386
+msgid ""
+"This will replace the default \"Thank you for creating with WordPress\" on "
+"the bottom left side of dashboard"
+msgstr "例如：“感谢使用WordPress进行创作。”"
+
+#: er-custom-login.php:390
+msgid "Enter the text for dashboard right side footer:"
+msgstr "版本信息："
+
+#: er-custom-login.php:394
+msgid ""
+"This will replace the default \"WordPress Version\" on the bottom right side "
+"of dashboard. Keep it as empty field for disabling this feature. Refresh the "
+"page again to see the result after saving."
+msgstr "例如： \"Copyright © 2016 All Rights Reserved\""
+
+#: er-custom-login.php:403
+msgid "Login Screen Background"
+msgstr "背景设置"
+
+#: er-custom-login.php:404
+msgid "(The following settings will be reflected on the \"wp-login.php\" page)"
+msgstr "登录界面"
+
+#: er-custom-login.php:409
+msgid "Login Screen Background Color:"
+msgstr "背景颜色："
+
+#: er-custom-login.php:414 er-custom-login.php:624 er-custom-login.php:736
+#: er-custom-login.php:764 er-custom-login.php:793 er-custom-login.php:805
+msgid "Click the box to select a color."
+msgstr "点击通过颜色选择器设置颜色。"
+
+#: er-custom-login.php:419
+msgid "Login Screen Background Image:"
+msgstr "背景图像："
+
+#: er-custom-login.php:421 er-custom-login.php:639
+msgid "Add Background Image"
+msgstr "上传"
+
+#: er-custom-login.php:423
+msgid ""
+"Add your own pattern/image url for the screen background. Leave blank if you "
+"don't need any images."
+msgstr "留空则不显示背景图像。"
+
+#: er-custom-login.php:427
+msgid "Login Screen Background Repeat"
+msgstr "背景重复："
+
+#: er-custom-login.php:465 er-custom-login.php:683
+msgid "Select an image repeat option from dropdown."
+msgstr "设置背景图像重复方式。"
+
+#: er-custom-login.php:469 er-custom-login.php:688
+msgid "Background Position:"
+msgstr "对齐方式："
+
+#: er-custom-login.php:470 er-custom-login.php:689
+msgid "Horizontal Position: "
+msgstr "水平对齐："
+
+#: er-custom-login.php:475 er-custom-login.php:694
+msgid ""
+"The background-position property sets the starting position of a background "
+"image. If you entering the value in \"pixels\" or \"percentage\", add \"px\" "
+"or \"%\" at the end of value. This will not show any changes if you set the "
+"Background Repeat option as \"Repeat\". <a href=\"http://www.w3schools.com/"
+"cssref/pr_background-position.asp\" target=\"_blank\">More Info</a>"
+msgstr ""
+"可使用 \"px\" 或 \"%\" 设置对齐方式。如果 \"背景重复\" 设置为 \"平铺\" 则不显"
+"示任何效果。 <a href=\"http://www.w3schools.com/cssref/pr_background-"
+"position.asp\" target=\"_blank\">使用帮助</a>"
+
+#: er-custom-login.php:480
+msgid "Background Size:"
+msgstr "图像尺寸："
+
+#: er-custom-login.php:484
+msgid ""
+"The background-size property specifies the size of a background image. If "
+"you entering the value in \"pixels\" or \"percentage\", add \"px\" or \"%\" "
+"at the end of value. Possible values: auto, length, percentage, cover, "
+"contain. <a href=\"http://www.w3schools.com/cssref/css3_pr_background-size."
+"asp\" target=\"_blank\">More Info</a>"
+msgstr ""
+"可使用 \"px\" 或 \"%\" 设置背景尺寸。也可以使用 auto、 length、 percentage、 "
+"cover、 contain 等标签。<a href=\"http://www.w3schools.com/cssref/"
+"css3_pr_background-size.asp\" target=\"_blank\">使用帮助</a>"
+
+#: er-custom-login.php:495
+msgid "Login Screen Logo"
+msgstr "网站标志"
+
+#: er-custom-login.php:496
+msgid "(Change the default WordPress logo and powered by text)"
+msgstr "登录界面"
+
+#: er-custom-login.php:501
+msgid "Logo Url:"
+msgstr "图像地址："
+
+#: er-custom-login.php:503
+msgid "Add Logo"
+msgstr "上传"
+
+#: er-custom-login.php:505
+msgid ""
+"(URL path to image to replace default WordPress Logo. (You can upload your "
+"image with the WordPress media uploader)"
+msgstr "请通过多媒体上传。"
+
+#: er-custom-login.php:510
+msgid "Logo Width:"
+msgstr "显示宽度："
+
+#: er-custom-login.php:514
+msgid "Your Logo width(Enter in pixels). Default: 274px"
+msgstr "默认值：274px"
+
+#: er-custom-login.php:518
+msgid "Logo Height:"
+msgstr "显示高度："
+
+#: er-custom-login.php:522
+msgid "Your Logo Height(Enter in pixels). Default: 63px"
+msgstr "默认值：63px"
+
+#: er-custom-login.php:527
+msgid "Powered by Text:"
+msgstr "标志文本："
+
+#: er-custom-login.php:531
+msgid "Show when mouse hover over custom Login logo"
+msgstr "当鼠标移动至网站标志时显示该文本信息。"
+
+#: er-custom-login.php:541
+msgid "Login Form Settings"
+msgstr "登录表单"
+
+#: er-custom-login.php:542
+msgid "(The following settings will change the Login Form style)"
+msgstr "登录界面"
+
+#: er-custom-login.php:547
+msgid "Login form width:"
+msgstr "显示宽度："
+
+#: er-custom-login.php:551
+msgid "Total Form width(Enter in pixels). Default: 350px"
+msgstr "默认值: 350px"
+
+#: er-custom-login.php:555
+msgid "Login Form Border Radius:"
+msgstr "圆角半径："
+
+#: er-custom-login.php:559
+msgid ""
+"Border Radius of Login Form. This is the option to make the corners rounded."
+"(Enter in pixels)"
+msgstr "设置登陆表单边框圆角。"
+
+#: er-custom-login.php:563
+msgid "Login Border Style"
+msgstr "边框样式："
+
+#: er-custom-login.php:607
+msgid "Select a Border Style option from dropdown."
+msgstr "选择登陆表单边框样式。"
+
+#: er-custom-login.php:611
+msgid "Login Border Thickness:"
+msgstr "边框厚度："
+
+#: er-custom-login.php:615
+msgid "Thickness of Border (Enter value in pixels)"
+msgstr "设置登陆表单边框厚度。"
+
+#: er-custom-login.php:619
+msgid "Login Border Color:"
+msgstr "边框颜色："
+
+#: er-custom-login.php:628
+msgid "Login Form Background Color:"
+msgstr "背景颜色："
+
+#: er-custom-login.php:632
+msgid "Background Opacity: "
+msgstr "背景透明："
+
+#: er-custom-login.php:634
+msgid ""
+"Click the box to select a color. Background Opacity will helps you to put "
+"transparent color over a background image. Possible values 0 to 1. Example: "
+"0.5 means 50% transparency. Default: 1 <a href=\"https://wordpress.org/"
+"plugins/erident-custom-login-and-dashboard/faq/\" target=\"_blank\">More "
+"Info</a>"
+msgstr ""
+"点击通过颜色选择器设置颜色。背景透明度介于0~1之间，例如：0.5 即表示 50% 透明"
+"度，默认值为1 。<a href=\"https://wordpress.org/plugins/erident-custom-login-"
+"and-dashboard/faq/\" target=\"_blank\">使用帮助</a>"
+
+#: er-custom-login.php:638
+msgid "Login Form Background Image:"
+msgstr "背景图像："
+
+#: er-custom-login.php:641
+msgid ""
+"Add your own pattern/image url to the form background. Leave blank if you "
+"don't need any images."
+msgstr "留空则不显示任何图像。"
+
+#: er-custom-login.php:645
+msgid "Login Form Background Repeat"
+msgstr "背景重复："
+
+#: er-custom-login.php:691
+msgid "Vertical Position: "
+msgstr "垂直对齐："
+
+#: er-custom-login.php:699
+msgid "Login Form Label Text Color"
+msgstr "字体颜色："
+
+#: er-custom-login.php:704
+msgid ""
+"Click the box to select a color. This will change the color of label "
+"Username/Password"
+msgstr "设置 \"用户名/密码\" 标签的字体颜色。"
+
+#: er-custom-login.php:708
+msgid "Login Form Label Text Size:"
+msgstr "字体大小："
+
+#: er-custom-login.php:711
+msgid "Font Size of Label Username/Password(Enter value in pixels)"
+msgstr "设置 \"用户名/密码\" 标签的字体大小。"
+
+#: er-custom-login.php:715
+msgid "Login Form Input Text Color"
+msgstr "输入框字体颜色："
+
+#: er-custom-login.php:720
+msgid ""
+"Click the box to select a color. This will change the color of text inside "
+"text box."
+msgstr "设置文本输入框内的字体颜色。"
+
+#: er-custom-login.php:724
+msgid "Login Form Input Text Size:"
+msgstr "输入框字体大小："
+
+#: er-custom-login.php:727
+msgid "Font Size of text inside text box(Enter value in pixels)"
+msgstr "设置文本输入框内的字体大小。"
+
+#: er-custom-login.php:731
+msgid "Login Form Link Color"
+msgstr "超链接颜色"
+
+#: er-custom-login.php:741
+msgid "Enable link shadow?"
+msgstr "显示超链接阴影："
+
+#: er-custom-login.php:749 er-custom-login.php:778 er-custom-login.php:829
+msgid "Yes"
+msgstr "是"
+
+#: er-custom-login.php:753 er-custom-login.php:782 er-custom-login.php:833
+msgid "No"
+msgstr "否"
+
+#: er-custom-login.php:755 er-custom-login.php:784
+msgid "(Check an option)"
+msgstr "点击选择一个选项"
+
+#: er-custom-login.php:759
+msgid "Login Form Link Shadow Color"
+msgstr "超链接阴影颜色："
+
+#: er-custom-login.php:770
+msgid "Enable form shadow?"
+msgstr "显示登录表单阴影："
+
+#: er-custom-login.php:788
+msgid "Login Form Shadow Color"
+msgstr "表单阴影颜色："
+
+#: er-custom-login.php:800
+msgid "Login Button Color"
+msgstr "登录按钮颜色："
+
+#: er-custom-login.php:816
+msgid "Plugin Un-install Settings"
+msgstr "高级功能"
+
+#: er-custom-login.php:821
+msgid "Delete custom settings upon plugin deactivation?"
+msgstr "强力卸载"
+
+#: er-custom-login.php:835
+msgid ""
+"(If you set \"Yes\" all custom settings will be deleted from database upon "
+"plugin deactivation)"
+msgstr "选择 \"是\"，卸载插件时将删除所有配置信息"
+
+#: er-custom-login.php:843
+msgid "Save Changes"
+msgstr "保存"
+
+#: er-custom-login.php:850
+msgid "Export Settings"
+msgstr "备份配置文件"
+
+#: er-custom-login.php:852
+msgid ""
+"Export the plugin settings for this site as a .json file. This allows you to "
+"easily import the configuration into another site."
+msgstr ""
+"将插件配置信息导出为 .json 文件并保存至本地，你可以在任何站点轻松恢复插件设"
+"置。"
+
+#: er-custom-login.php:857
+msgid "Export"
+msgstr "保存备份"
+
+#: er-custom-login.php:865
+msgid "Import Settings"
+msgstr "导入配置文件"
+
+#: er-custom-login.php:867
+msgid ""
+"Import the plugin settings from a .json file. This file can be obtained by "
+"exporting the settings on another site using the form above."
+msgstr "导入插件配置信息。可通过备份功能获得有效的 .json 配置文件。"
+
+#: er-custom-login.php:875
+msgid "Import"
+msgstr "开始导入"
+
+#: er-custom-login.php:883
+msgid "Quick Links"
+msgstr "快速链接"
+
+#: er-custom-login.php:885
+msgid "Open Your WP Login Page in a New Tab"
+msgstr "用户登录"
+
+#: er-custom-login.php:886
+msgid "Plugin Documentation"
+msgstr "使用帮助"
+
+#: er-custom-login.php:887
+msgid "Plugin Support Page"
+msgstr "技术支持"
+
+#: er-custom-login.php:888
+msgid "Feature Request/Suggestions?"
+msgstr "建议反馈"
+
+#: er-custom-login.php:889
+msgid "Got some Love? Give us a 5 star rating!"
+msgstr "好评鼓励！"
+
+#: er-custom-login.php:893
+msgid "Hire Me"
+msgstr ""
+
+#: er-custom-login.php:894
+msgid ""
+"Hey, I'm Libin, a professional Front End Engineer/WordPress Developer. You "
+"can hire me for freelancing projects.<br/><br/>Email me: <a href=\"mailto:"
+"libin@libin.in\">libin@libin.in</a> <br/>Online Portfolio: <a href=\"http://"
+"www.libin.in\" target=\"_blank\">www.libin.in</a>"
+msgstr ""
+
+#: er-custom-login.php:896
+msgid "Translation Credits"
+msgstr ""
+
+#: er-custom-login.php:898
+msgid ""
+"Spanish by <a href=\"http://www.linkedin.com/in/adrifolio\" target=\"_blank"
+"\">Adriana De La Cuadra</a>"
+msgstr ""
+
+#: er-custom-login.php:899
+msgid ""
+"French by <a href=\"https://www.linkedin.com/pub/vaslin-guillaume/38/35a/5aa"
+"\" target=\"_blank\">Guillaume Vaslin</a>"
+msgstr ""
+
+#: er-custom-login.php:900
+msgid ""
+"German by <a href=\"http://www.starsofvietnam.net/\" target=\"_blank\">Peter "
+"Kaulfuss</a>"
+msgstr ""
+
+#: er-custom-login.php:901
+msgid ""
+"Turkish by <a href=\"https://www.linkedin.com/profile/view?id=335577895\" "
+"target=\"_blank\">Muhammet Küçük</a>"
+msgstr ""
+
+#: er-custom-login.php:902
+msgid ""
+"Persian by <a href=\"https://about.me/reza.heydari\" target=\"_blank\">Reza "
+"Heydari</a>"
+msgstr ""
+
+#: er-custom-login.php:903
+msgid ""
+"Portuguese-Brazil by <a href=\"https://www.facebook.com/home.php?"
+"m2w&refid=8\" target=\"_blank\">Reza Heydari</a>"
+msgstr ""
+
+#: er-custom-login.php:905
+msgid "Do you wants to translate this plugin to your language? Email me!"
+msgstr ""
+
+#~ msgid ""
+#~ "This will replace the default \"WordPress Version\" on the bottom right "
+#~ "side of dashboard"
+#~ msgstr "默认版本信息 \"WALL·E\""
+
+#~ msgid "Default Logo Size 274px × 63px"
+#~ msgstr "默认尺寸：274px × 63px"
